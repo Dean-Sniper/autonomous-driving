@@ -1,6 +1,6 @@
 # autonomous-driving
 
-![Autoware_RViz](https://user-images.githubusercontent.com/63835446/158918717-58d6deaf-93fb-47f9-891d-e242b02cba7b.png)
+![Autoware_RViz]
 
 <!--- Contributors -->
 <p align="center">
